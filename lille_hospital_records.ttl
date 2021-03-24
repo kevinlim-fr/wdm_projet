@@ -1,0 +1,246 @@
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] schema:features [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59000"^^xsd:string ;
+      schema:commune "LILLE"^^xsd:string ;
+      schema:geo_point_2d 5.064651e+1, 3.083952e+0 ;
+      schema:lat 5.064651e+1 ;
+      schema:long 3.083952e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59100"^^xsd:string ;
+      schema:commune "ROUBAIX"^^xsd:string ;
+      schema:geo_point_2d 5.068262e+1, 3.197769e+0 ;
+      schema:lat 5.068262e+1 ;
+      schema:long 3.197769e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59223"^^xsd:string ;
+      schema:commune "RONCQ"^^xsd:string ;
+      schema:geo_point_2d 5.073276e+1, 3.115017e+0 ;
+      schema:lat 5.073276e+1 ;
+      schema:long 3.115017e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59280"^^xsd:string ;
+      schema:commune "ARMENTIERES"^^xsd:string ;
+      schema:geo_point_2d 5.068468e+1, 2.867837e+0 ;
+      schema:lat 5.068468e+1 ;
+      schema:long 2.867837e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59200"^^xsd:string ;
+      schema:commune "TOURCOING"^^xsd:string ;
+      schema:geo_point_2d 5.072465e+1, 3.148004e+0 ;
+      schema:lat 5.072465e+1 ;
+      schema:long 3.148004e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59000"^^xsd:string ;
+      schema:commune "LILLE"^^xsd:string ;
+      schema:geo_point_2d 5.062024e+1, 3.077179e+0 ;
+      schema:lat 5.062024e+1 ;
+      schema:long 3.077179e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59200"^^xsd:string ;
+      schema:commune "TOURCOING"^^xsd:string ;
+      schema:geo_point_2d 5.074464e+1, 3.180290e+0 ;
+      schema:lat 5.074464e+1 ;
+      schema:long 3.180290e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59000"^^xsd:string ;
+      schema:commune "LILLE"^^xsd:string ;
+      schema:geo_point_2d 5.063391e+1, 3.031536e+0 ;
+      schema:lat 5.063391e+1 ;
+      schema:long 3.031536e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59120"^^xsd:string ;
+      schema:commune "LOOS"^^xsd:string ;
+      schema:geo_point_2d 5.061057e+1, 3.007891e+0 ;
+      schema:lat 5.061057e+1 ;
+      schema:long 3.007891e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59150"^^xsd:string ;
+      schema:commune "WATTRELOS"^^xsd:string ;
+      schema:geo_point_2d 5.070075e+1, 3.222015e+0 ;
+      schema:lat 5.070075e+1 ;
+      schema:long 3.222015e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59200"^^xsd:string ;
+      schema:commune "TOURCOING"^^xsd:string ;
+      schema:geo_point_2d 5.071646e+1, 3.156622e+0 ;
+      schema:lat 5.071646e+1 ;
+      schema:long 3.156622e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59650"^^xsd:string ;
+      schema:commune "VILLENEUVE D'ASCQ"^^xsd:string ;
+      schema:geo_point_2d 5.065301e+1, 3.152186e+0 ;
+      schema:lat 5.065301e+1 ;
+      schema:long 3.152186e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59160"^^xsd:string ;
+      schema:commune "(LOMME) LILLE"^^xsd:string ;
+      schema:geo_point_2d 5.065139e+1, 2.973152e+0 ;
+      schema:lat 5.065139e+1 ;
+      schema:long 2.973152e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59100"^^xsd:string ;
+      schema:commune "ROUBAIX"^^xsd:string ;
+      schema:geo_point_2d 5.067917e+1, 3.173828e+0 ;
+      schema:lat 5.067917e+1 ;
+      schema:long 3.173828e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59320"^^xsd:string ;
+      schema:commune "HAUBOURDIN"^^xsd:string ;
+      schema:geo_point_2d 5.061301e+1, 2.986735e+0 ;
+      schema:lat 5.061301e+1 ;
+      schema:long 2.986735e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59100"^^xsd:string ;
+      schema:commune "ROUBAIX"^^xsd:string ;
+      schema:geo_point_2d 5.068591e+1, 3.178289e+0 ;
+      schema:lat 5.068591e+1 ;
+      schema:long 3.178289e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59160"^^xsd:string ;
+      schema:commune "(LOMME) LILLE"^^xsd:string ;
+      schema:geo_point_2d 5.065389e+1, 2.992340e+0 ;
+      schema:lat 5.065389e+1 ;
+      schema:long 2.992340e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59000"^^xsd:string ;
+      schema:commune "LILLE"^^xsd:string ;
+      schema:geo_point_2d 5.064915e+1, 3.085499e+0 ;
+      schema:lat 5.064915e+1 ;
+      schema:long 3.085499e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59000"^^xsd:string ;
+      schema:commune "LILLE"^^xsd:string ;
+      schema:geo_point_2d 5.060867e+1, 3.035968e+0 ;
+      schema:lat 5.060867e+1 ;
+      schema:long 3.035968e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59113"^^xsd:string ;
+      schema:commune "SECLIN"^^xsd:string ;
+      schema:geo_point_2d 5.054664e+1, 3.017810e+0 ;
+      schema:lat 5.054664e+1 ;
+      schema:long 3.017810e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59810"^^xsd:string ;
+      schema:commune "LESQUIN"^^xsd:string ;
+      schema:geo_point_2d 5.058890e+1, 3.089487e+0 ;
+      schema:lat 5.058890e+1 ;
+      schema:long 3.089487e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ], [
+    schema:fields [
+      a schema:hopital ;
+      schema:code_postal "59700"^^xsd:string ;
+      schema:commune "MARCQ-EN-BAROEUL"^^xsd:string ;
+      schema:geo_point_2d 5.066650e+1, 3.101550e+0 ;
+      schema:lat 5.066650e+1 ;
+      schema:long 3.101550e+0 ;
+      schema:ville "Lille"^^xsd:string
+    ] ;
+    schema:type "Feature"^^xsd:string
+  ] .
