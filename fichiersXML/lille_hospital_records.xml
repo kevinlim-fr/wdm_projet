@@ -6,15 +6,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59000</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LILLE</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06465113784E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.08395241534E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06465113784E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.08395241534E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -24,15 +25,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59100</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ROUBAIX</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06826161374E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.19776884998E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06826161374E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.19776884998E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -42,15 +44,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59223</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RONCQ</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.07327642037E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.115016521E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.07327642037E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.115016521E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -60,15 +63,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59280</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ARMENTIERES</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06846779019E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.86783660669E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06846779019E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.86783660669E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -78,15 +82,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59200</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TOURCOING</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.07246508856E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.14800433887E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.07246508856E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.14800433887E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -96,15 +101,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59000</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LILLE</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06202380916E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.07717927762E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06202380916E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.07717927762E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -114,15 +120,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59200</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TOURCOING</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.07446443074E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.18029017856E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.07446443074E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.18029017856E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -132,15 +139,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59000</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LILLE</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06339108151E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.03153623994E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06339108151E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.03153623994E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -150,15 +158,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59120</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LOOS</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06105672954E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.00789073236E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06105672954E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.00789073236E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -168,15 +177,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59150</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WATTRELOS</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.07007490358E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.22201522281E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.07007490358E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.22201522281E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -186,15 +196,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59200</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TOURCOING</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.07164587684E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.15662245507E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.07164587684E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.15662245507E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -204,15 +215,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59650</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLENEUVE D'ASCQ</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06530104252E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.15218579198E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06530104252E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.15218579198E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -222,15 +234,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59160</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(LOMME) LILLE</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06513947118E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.9731517883E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06513947118E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.9731517883E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -240,15 +253,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59100</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ROUBAIX</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0679169334E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.17382832463E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0679169334E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.17382832463E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -258,15 +272,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59320</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HAUBOURDIN</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06130128507E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.98673462341E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06130128507E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.98673462341E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -276,87 +291,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
-            <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59100</schema:code_postal>
-            <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ROUBAIX</schema:commune>
-            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06859128549E1</schema:geo_point_2d>
-            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.17828878634E0</schema:geo_point_2d>
-            <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06859128549E1</schema:lat>
-            <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.17828878634E0</schema:long>
-            <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
-        </schema:fields>
-
-        <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
-      </rdf:Description>
-    </schema:features>
-
-    <schema:features>
-      <rdf:Description>
-        <schema:fields>
-          <schema:hospital>
-            <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59160</schema:code_postal>
-            <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(LOMME) LILLE</schema:commune>
-            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0653891345E1</schema:geo_point_2d>
-            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.9923404297E0</schema:geo_point_2d>
-            <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0653891345E1</schema:lat>
-            <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.9923404297E0</schema:long>
-            <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
-        </schema:fields>
-
-        <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
-      </rdf:Description>
-    </schema:features>
-
-    <schema:features>
-      <rdf:Description>
-        <schema:fields>
-          <schema:hospital>
-            <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59000</schema:code_postal>
-            <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LILLE</schema:commune>
-            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06491473003E1</schema:geo_point_2d>
-            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.08549912212E0</schema:geo_point_2d>
-            <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06491473003E1</schema:lat>
-            <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.08549912212E0</schema:long>
-            <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
-        </schema:fields>
-
-        <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
-      </rdf:Description>
-    </schema:features>
-
-    <schema:features>
-      <rdf:Description>
-        <schema:fields>
-          <schema:hospital>
-            <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59000</schema:code_postal>
-            <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LILLE</schema:commune>
-            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06086696715E1</schema:geo_point_2d>
-            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.03596840781E0</schema:geo_point_2d>
-            <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06086696715E1</schema:lat>
-            <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.03596840781E0</schema:long>
-            <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
-        </schema:fields>
-
-        <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
-      </rdf:Description>
-    </schema:features>
-
-    <schema:features>
-      <rdf:Description>
-        <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59113</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SECLIN</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.05466414558E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.01781005107E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.05466414558E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.01781005107E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -366,15 +310,16 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59810</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LESQUIN</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.05888971553E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.08948682714E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.05888971553E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.08948682714E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -384,15 +329,92 @@
     <schema:features>
       <rdf:Description>
         <schema:fields>
-          <schema:hospital>
+          <rdf:Description>
             <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59700</schema:code_postal>
             <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MARCQ-EN-BAROEUL</schema:commune>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0666496025E1</schema:geo_point_2d>
             <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.10155008906E0</schema:geo_point_2d>
             <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0666496025E1</schema:lat>
             <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.10155008906E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
             <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
-          </schema:hospital>
+          </rdf:Description>
+        </schema:fields>
+
+        <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
+      </rdf:Description>
+    </schema:features>
+
+    <schema:features>
+      <rdf:Description>
+        <schema:fields>
+          <rdf:Description>
+            <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59100</schema:code_postal>
+            <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ROUBAIX</schema:commune>
+            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06859128549E1</schema:geo_point_2d>
+            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.17828878634E0</schema:geo_point_2d>
+            <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06859128549E1</schema:lat>
+            <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.17828878634E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
+            <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
+          </rdf:Description>
+        </schema:fields>
+
+        <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
+      </rdf:Description>
+    </schema:features>
+
+    <schema:features>
+      <rdf:Description>
+        <schema:fields>
+          <rdf:Description>
+            <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59160</schema:code_postal>
+            <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(LOMME) LILLE</schema:commune>
+            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0653891345E1</schema:geo_point_2d>
+            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.9923404297E0</schema:geo_point_2d>
+            <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0653891345E1</schema:lat>
+            <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.9923404297E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
+            <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
+          </rdf:Description>
+        </schema:fields>
+
+        <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
+      </rdf:Description>
+    </schema:features>
+
+    <schema:features>
+      <rdf:Description>
+        <schema:fields>
+          <rdf:Description>
+            <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59000</schema:code_postal>
+            <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LILLE</schema:commune>
+            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06491473003E1</schema:geo_point_2d>
+            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.08549912212E0</schema:geo_point_2d>
+            <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06491473003E1</schema:lat>
+            <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.08549912212E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
+            <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
+          </rdf:Description>
+        </schema:fields>
+
+        <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
+      </rdf:Description>
+    </schema:features>
+
+    <schema:features>
+      <rdf:Description>
+        <schema:fields>
+          <rdf:Description>
+            <schema:code_postal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59000</schema:code_postal>
+            <schema:commune rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LILLE</schema:commune>
+            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06086696715E1</schema:geo_point_2d>
+            <schema:geo_point_2d rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.03596840781E0</schema:geo_point_2d>
+            <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06086696715E1</schema:lat>
+            <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.03596840781E0</schema:long>
+            <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hospital</schema:type>
+            <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lille</schema:ville>
+          </rdf:Description>
         </schema:fields>
 
         <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>

@@ -9,17 +9,18 @@
         <schema:records>
           <rdf:Description>
             <schema:fields>
-              <schema:station>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</schema:available_bikes_stands>
+              <rdf:Description>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</schema:available_bikes_stands>
                 <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:bike_stands>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109601E1</schema:coordonnees>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.67408E0</schema:coordonnees>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109601E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.67408E0</schema:long>
-                <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Musée Beaux-Arts</schema:name>
+                <schema:nom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Musée Beaux-Arts</schema:nom>
+                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</schema:ville>
-              </schema:station>
+              </rdf:Description>
             </schema:fields>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -29,17 +30,18 @@
         <schema:records>
           <rdf:Description>
             <schema:fields>
-              <schema:station>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</schema:available_bikes_stands>
+              <rdf:Description>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</schema:available_bikes_stands>
                 <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</schema:bike_stands>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8105537E1</schema:coordonnees>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.674328E0</schema:coordonnees>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8105537E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.674328E0</schema:long>
-                <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Champs Libres</schema:name>
+                <schema:nom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Champs Libres</schema:nom>
+                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</schema:ville>
-              </schema:station>
+              </rdf:Description>
             </schema:fields>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -49,17 +51,18 @@
         <schema:records>
           <rdf:Description>
             <schema:fields>
-              <schema:station>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes_stands>
+              <rdf:Description>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</schema:available_bikes_stands>
                 <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</schema:bike_stands>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8113009E1</schema:coordonnees>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.693264E0</schema:coordonnees>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8113009E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.693264E0</schema:long>
-                <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brest - Verdun</schema:name>
+                <schema:nom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brest - Verdun</schema:nom>
+                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</schema:ville>
-              </schema:station>
+              </rdf:Description>
             </schema:fields>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -69,17 +72,18 @@
         <schema:records>
           <rdf:Description>
             <schema:fields>
-              <schema:station>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
+              <rdf:Description>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</schema:available_bikes_stands>
                 <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</schema:bike_stands>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8111749E1</schema:coordonnees>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.702077E0</schema:coordonnees>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8111749E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.702077E0</schema:long>
-                <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marbeuf</schema:name>
+                <schema:nom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marbeuf</schema:nom>
+                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</schema:ville>
-              </schema:station>
+              </rdf:Description>
             </schema:fields>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -89,17 +93,18 @@
         <schema:records>
           <rdf:Description>
             <schema:fields>
-              <schema:station>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</schema:available_bikes_stands>
-                <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</schema:bike_stands>
+              <rdf:Description>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</schema:available_bikes_stands>
+                <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</schema:bike_stands>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8112461E1</schema:coordonnees>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.643674E0</schema:coordonnees>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8112461E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.643674E0</schema:long>
-                <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plaine de Baud</schema:name>
+                <schema:nom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plaine de Baud</schema:nom>
+                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</schema:ville>
-              </schema:station>
+              </rdf:Description>
             </schema:fields>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -109,7 +114,7 @@
         <schema:records>
           <rdf:Description>
             <schema:fields>
-              <schema:station>
+              <rdf:Description>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes_stands>
                 <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</schema:bike_stands>
@@ -117,9 +122,10 @@
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.665101E0</schema:coordonnees>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8126795E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.665101E0</schema:long>
-                <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gros-Chêne</schema:name>
+                <schema:nom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gros-Chêne</schema:nom>
+                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</schema:ville>
-              </schema:station>
+              </rdf:Description>
             </schema:fields>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -129,17 +135,18 @@
         <schema:records>
           <rdf:Description>
             <schema:fields>
-              <schema:station>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</schema:available_bikes_stands>
+              <rdf:Description>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</schema:available_bikes_stands>
                 <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</schema:bike_stands>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8123506E1</schema:coordonnees>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.659762E0</schema:coordonnees>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8123506E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.659762E0</schema:long>
-                <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Painlevé</schema:name>
+                <schema:nom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Painlevé</schema:nom>
+                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</schema:ville>
-              </schema:station>
+              </rdf:Description>
             </schema:fields>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -149,17 +156,18 @@
         <schema:records>
           <rdf:Description>
             <schema:fields>
-              <schema:station>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</schema:available_bikes_stands>
-                <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</schema:bike_stands>
+              <rdf:Description>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</schema:available_bikes_stands>
+                <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</schema:bike_stands>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8124389E1</schema:coordonnees>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.651203E0</schema:coordonnees>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8124389E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.651203E0</schema:long>
-                <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joliot-Curie - Chateaubriand</schema:name>
+                <schema:nom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joliot-Curie - Chateaubriand</schema:nom>
+                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</schema:ville>
-              </schema:station>
+              </rdf:Description>
             </schema:fields>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -169,7 +177,7 @@
         <schema:records>
           <rdf:Description>
             <schema:fields>
-              <schema:station>
+              <rdf:Description>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes_stands>
                 <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:bike_stands>
@@ -177,9 +185,10 @@
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.644121E0</schema:coordonnees>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8087282E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.644121E0</schema:long>
-                <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Poterie</schema:name>
+                <schema:nom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Poterie</schema:nom>
+                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</schema:ville>
-              </schema:station>
+              </rdf:Description>
             </schema:fields>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -189,17 +198,18 @@
         <schema:records>
           <rdf:Description>
             <schema:fields>
-              <schema:station>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</schema:available_bikes_stands>
+              <rdf:Description>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</schema:available_bikes_stands>
                 <schema:bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</schema:bike_stands>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109859E1</schema:coordonnees>
                 <schema:coordonnees rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.656028E0</schema:coordonnees>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8109859E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.656028E0</schema:long>
-                <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pont de Strasbourg</schema:name>
+                <schema:nom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pont de Strasbourg</schema:nom>
+                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rennes</schema:ville>
-              </schema:station>
+              </rdf:Description>
             </schema:fields>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
