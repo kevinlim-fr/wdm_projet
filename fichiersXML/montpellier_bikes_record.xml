@@ -8,16 +8,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3605366E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.881346E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rue Jules Ferry - Gare Saint-Roch</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -27,16 +27,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3608148E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.878778E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comédie</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -46,16 +46,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3609478E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.881293E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esplanade</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -65,16 +65,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3599088E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.894866E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hôtel de Ville</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -84,16 +84,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3613989E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.8816E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corum</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -103,16 +103,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3616768E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.873375E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Place Albert 1er - St Charles</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -122,16 +122,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3610989E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.873345E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Foch</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -141,16 +141,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3609935E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.877208E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Halles Castellane</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -160,16 +160,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3606081E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.876931E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Observatoire</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -179,16 +179,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3603038E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.875796E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rondelet</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -198,16 +198,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3608491E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.868389E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plan Cabanes</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -217,16 +217,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3622629E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.868375E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boutonnet</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -236,16 +236,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3616742E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.87998E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emile Combes</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -255,16 +255,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3616698E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.884981E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beaux-Arts</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -274,16 +274,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3618692E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.893844E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Les Aubes</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -293,16 +293,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3607942E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.890634E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antigone centre</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -312,16 +312,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3608218E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.89314E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Médiathèque Emile Zola</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -331,16 +331,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3607859E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.886644E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nombre d'Or</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -350,16 +350,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3614642E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.877648E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Louis Blanc</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -369,16 +369,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3607106E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.870693E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gambetta</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -388,16 +388,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.360032E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.89851E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Port Marianne</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -407,16 +407,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3603539E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.872394E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clemenceau</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -426,16 +426,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3611991E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.867157E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Les Arceaux</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -445,16 +445,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3601143E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.884373E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cité Mion</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -464,16 +464,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3599817E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.875757E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nouveau Saint-Roch</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -483,16 +483,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3603553E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.867884E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renouvier</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -502,16 +502,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3603727E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.918979E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Odysseum</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -521,16 +521,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3605021E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.875065E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Denis</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -540,16 +540,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3603424E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.899263E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Richter</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -559,16 +559,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3618762E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.865971E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charles Flahault</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -578,16 +578,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3603767E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.888659E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Voltaire</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -597,16 +597,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.359048E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.884611E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prés d'Arènes</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -616,16 +616,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3590757E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.890616E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Garcia Lorca</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -635,16 +635,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.363458E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.86823E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vert Bois</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -654,16 +654,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3633679E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.832861E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malbosc</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -673,16 +673,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3634242E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.849128E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Occitanie</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -692,16 +692,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3631018E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.860697E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FacdesSciences</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -711,16 +711,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3630665E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.87023E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fac de Lettres</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -730,16 +730,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3626163E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.882492E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aiguelongue</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -749,16 +749,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3619701E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.883831E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jeu de Mail des Abbés</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -768,16 +768,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3639119E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.828199E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Euromédecine</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -787,16 +787,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3619871E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.873812E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marie Caizergues</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -806,16 +806,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3584211E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.860031E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sabines</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -825,16 +825,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.361467E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.832624E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Celleneuve</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -844,16 +844,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.360585E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.911576E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jardin de la Lironde</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -863,16 +863,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3621983E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.855603E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Père Soulas</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -882,16 +882,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3616812E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.855075E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Place Viala</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -901,16 +901,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3621682E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.83477E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hôtel du Département</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -920,16 +920,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3615155E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.839466E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tonnelles</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -939,16 +939,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3603889E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.879362E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Parvis Jules Ferry - Gare Saint-Roch</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -958,16 +958,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3606036E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.882393E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pont de Lattes - Gare Saint-Roch</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -977,16 +977,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3604319E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.880916E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deux Ponts - Gare Saint-Roch</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -996,16 +996,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3588239E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.853421E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Providence - Ovalie</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -1015,16 +1015,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3558351E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.963412E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pérols Etang de l'Or</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -1034,16 +1034,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3614005E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.873218E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Albert 1er - Cathédrale</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -1053,16 +1053,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
-                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</schema:available_bikes>
-                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</schema:available_bikes_stands>
+              <schema:station>
+                <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</schema:available_bikes>
+                <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3608996E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.872752E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Guilhem - Courreau</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
@@ -1072,16 +1072,16 @@
         <schema:features>
           <rdf:Description>
             <schema:properties>
-              <rdf:Description>
+              <schema:station>
                 <schema:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</schema:available_bikes>
                 <schema:available_bikes_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</schema:available_bikes_stands>
                 <schema:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.359562E1</schema:lat>
                 <schema:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.9235E0</schema:long>
                 <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sud De France</schema:name>
+                <schema:place rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:place>
                 <schema:total rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:total>
-                <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">station</schema:type>
                 <schema:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montpellier</schema:ville>
-              </rdf:Description>
+              </schema:station>
             </schema:properties>
 
             <schema:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</schema:type>
