@@ -1,0 +1,6 @@
+[ <https://localhost/#city>   "Lyon" ;
+  <https://localhost/#lat>    "45.78405"^^<http://www.w3.org/2001/XMLSchema#float> ;
+  <https://localhost/#lng>    "4.897086"^^<http://www.w3.org/2001/XMLSchema#float> ;
+  <https://localhost/#name>   "Verdun / Desgrand" ;
+  <https://localhost/#place>  "bike_station"
+] .
