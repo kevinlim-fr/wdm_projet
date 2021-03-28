@@ -16,6 +16,7 @@ Click on "upload data" > Click on "select files" > Then navigate to the "fichier
 
 Select all the XML files click "open" and then "upload all"
 
+### Verify if it's possible to query the database
 The dataset is now uploaded, to check if it's working you can try the following sparql query:
 
 PREFIX ns: <http://www.semanticweb.org/joula/ontologies/2021/2/projetWeb/> 
@@ -35,6 +36,8 @@ WHERE {
 ### Python installation for the server
 
 Install if necessary through command line 
+
+
 
 #### Windows
 
@@ -77,3 +80,9 @@ Mairie de Lyon (Vélos) : 2 Place Sathonay, 69001 Lyon
 Mairie de Rennes (Vélos) : Place de la Mairie, 35000 Rennes
 
 Mairie de Montpellier : 1 Place Georges Frêche, 34000 Montpellier
+
+### ATTENTION : SI VOUS AVEZ UNE ERREUR 
+
+Il faut faire une manipulation avec la librairie JSON. Veuillez vous rendre sur le repo github afin d'avoir le dernier readme avec les manipulations à réaliser.
+
+### Une video de démonstration est disponible dans à la racine du repo
