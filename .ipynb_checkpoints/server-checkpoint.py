@@ -27,17 +27,18 @@ def requete(adresse, radius):
                           * math.pi/180 * (lat-2*phi))
 
     # Lyon Velos
-    PREFIX = "PREFIX ns: <http://www.semanticweb.org/joula/ontologies/2021/2/lyon> "\
+    PREFIX = "PREFIX ns: <http://www.semanticweb.org/joula/ontologies/2021/2/projetWeb/> "\
     "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> "\
     "PREFIX rdfs:<http://www.w3.org/2001/XMLSchema#> "\
-    "PREFIX http: <http://www.w3.org/2011/http#> "
+    "PREFIX http: <http://www.w3.org/2011/http#>"\
 
     FILTER = "FILTER (("+str(lat)+"-?lat)*("+str(lat)+"-?lat) + ("+str(lon)+"-?long)*("+str(lon)+"-?long)* " \
         "("+str(val2)+"-("+str(val1)+"*?lat)) < "+str(radius_degree)+")}"
 
-    requete = "SELECT ?name  ?place ?ville  ?lat  ?lng "\
-    "WHERE { ?station rdf:type ns:station . "\
-    "?station ns:name ?name . ?station ns:ville ?ville . "\
+    requete = "SELECT ?name ?place ?ville ?lat ?lng WHERE { "\
+    "?station rdf:type ns:station . "\
+    "?station ns:name ?name . "\ 
+    "?station ns:ville ?ville .	"\
     "?station ns:lng ?lng . "\
     "?station ns:lat ?lat . "\
     "?station ns:place ?place . "
