@@ -1,4 +1,4 @@
 # Web Data Mining project
-## Authors: Hihane OUL ALI | Clément MUFFAT-JOLY | Kevin LIM
+## Authors: Jihane OUL ALI | Clément MUFFAT-JOLY | Kevin LIM
 
 ### Setup
