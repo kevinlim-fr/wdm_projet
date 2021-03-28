@@ -6,6 +6,32 @@
 
 ### Database installation Apache Jena Fuseki
 
+#### Run the fuseki server
+
+Click on manage datasets > add one > put db in dataset name and click on Persistent TDB2 > Validate with create dataset
+
+Now upload the data by doing the following:
+
+Click on "upload data" > Click on "select files" > Then navigate to the "fichierXML" folder.
+
+Select all the XML files click "open" and then "upload all"
+
+The dataset is now uploaded, to check if it's working you can try the following sparql query:
+
+PREFIX ns: <http://www.semanticweb.org/joula/ontologies/2021/2/projetWeb/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>  
+PREFIX rdfs:<http://www.w3.org/2001/XMLSchema#> 
+PREFIX http: <http://www.w3.org/2011/http#>
+
+SELECT ?place ?ville ?lng ?lat
+WHERE {
+	?hospital rdf:type ns:hospital .
+  	?hospital ns:ville ?ville .	
+  	?hospital ns:lng ?lng .
+  	?hospital ns:lat ?lat .
+  	?hospital ns:place ?place .
+}
+
 ### Python installation for the server
 
 Install if necessary through command line 
@@ -49,3 +75,5 @@ Mairie de Lille (Hopitaux) : Place Augustin Laurent, 59033 Lille
 Mairie de Lyon (Vélos) : 2 Place Sathonay, 69001 Lyon
 
 Mairie de Rennes (Vélos) : Place de la Mairie, 35000 Rennes
+
+Mairie de Montpellier : 1 Place Georges Frêche, 34000 Montpellier
