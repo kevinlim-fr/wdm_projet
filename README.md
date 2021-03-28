@@ -84,5 +84,6 @@ Mairie de Montpellier : 1 Place Georges Frêche, 34000 Montpellier
 ### ATTENTION : SI VOUS AVEZ UNE ERREUR 
 
 Il faut faire une manipulation avec la librairie JSON. Veuillez vous rendre sur le repo github afin d'avoir le dernier readme avec les manipulations à réaliser.
+https://github.com/kevinlim-fr/wdm_proje
 
 ### Une video de démonstration est disponible dans à la racine du repo
