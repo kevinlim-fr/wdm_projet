@@ -1,9 +1,9 @@
 # Web Data Mining project
 ## Authors: Jihane OUL ALI | Clément MUFFAT-JOLY | Kevin LIM
 
-### Setup
-
-### Installation Python
+## Setup
+### Database installation Apache Jena Fuseki
+### Python installation for the server
 Install if necessary through command line 
 #### Windows
 
