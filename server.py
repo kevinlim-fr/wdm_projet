@@ -79,7 +79,7 @@ def requete(adresse, radius):
     "?hospital ns:place ?place . "
 
     sparql_query2 = PREFIX + requete + FILTER
-    print(sparql_query2)
+    #print(sparql_query2)
     sparql_query2 = urllib.parse.quote(sparql_query2, safe='')
     url2 = "http://localhost:3030/db/sparql?query="+sparql_query2
     response2 = requests.get(url2)
