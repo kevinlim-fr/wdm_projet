@@ -82,7 +82,7 @@ Mairie de Montpellier : 1 Place Georges Frêche, 34000 Montpellier
 
 ### ATTENTION : SI VOUS AVEZ UNE ERREUR 
 
-Il faut faire une manipulation avec la librairie JSON. Veuillez vous rendre sur le repo github afin d'avoir le dernier readme avec les manipulations à réaliser.
-https://github.com/kevinlim-fr/wdm_projet/
+Pour corriger l'erreur il faut mettre à jour la version de python vers 3.9, puis se rendre dans le répertoire d'installation de Python 3.9 qui se trouve sur ce chemin : Frameworks/Python.framework/Versions/3.9/lib/python3.9/json 
+Une fois dans le dossier json, il faut remplacer les deux fichiers __init__.py et encoder.py par les fichiers dans le dossier jsonfix du repo.
 
-### Une video de démonstration est disponible dans à la racine du repo
+### Une video de démonstration (test.mov) est disponible dans à la racine du repo qui montre l'utilisation de l'app en cas de problèmes à cause de python.
