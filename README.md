@@ -1,7 +1,7 @@
 # Web Data Mining project
 ## Authors: Jihane OUL ALI | Clément MUFFAT-JOLY | Kevin LIM
 
-## Setup
+## STEP 0 : Setup
 ### Database installation Apache Jena Fuseki
 ### Python installation for the server
 Install if necessary through command line 
@@ -19,3 +19,7 @@ pip3 install requests
 pip3 install pandas 
 
 pip3 install urllib
+
+## STEP 1 : Run the Jena Fuseki server
+
+## STEP 2 : Run the Python App
