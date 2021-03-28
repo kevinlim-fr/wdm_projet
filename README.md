@@ -55,9 +55,8 @@ pip3 install pandas
 
 pip3 install urllib
 
-## STEP 1 : Run the Jena Fuseki server
 
-## STEP 2 : Run the Python App
+## STEP 1 : Run the Python App
 
 ### Démarrage de l'app
 
